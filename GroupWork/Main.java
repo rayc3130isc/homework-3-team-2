@@ -33,7 +33,10 @@ public class Main {
 	    	  Box<Integer> element = ite.next();
 	    	  System.out.println(element.getValue());
 	      }
-	      
+	         //1. box<t> allows for multiple data types to be used, without it you need to manually use data types which may take longer 
+	      //2. no casting needed for iterators bc you can use generics which comes with inbuilt data for your object in main
+	      //3. ArrayList requires a generic type to be built when creating it which can be one of the relation
+	
 	      
 	
 		
