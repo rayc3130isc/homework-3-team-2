@@ -6,4 +6,4 @@ An Iterator does not need casting in modern programming languages because generi
 
 Every single time that you create an ArrayList is erased the generic time at runtime and is stored as an object type object time and the compiler enforces type safety and adds casts when you retrieve elements.
 
-GroupWork file - Tasnim Hasan, Jerry Zhang
+
